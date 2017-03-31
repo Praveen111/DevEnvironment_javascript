@@ -20,6 +20,15 @@ app.get('/', function(req,res){
   res.sendFile(path.join(__dirname, '../src/index.html'));
 });
 
+app.get('/users', function(req,res){
+
+  res.json([
+    {"id" : 1 , "name" : "Praveen", "email": "pravee@gmail.com"},
+    {"id" : 2 , "name" : "Prashanth", "email": "prash@gmail.com"},
+    {"id" : 3 , "name" : "Trishul", "email": "trishhh@gmail.com"}
+  ]);
+});
+
 app.listen(port,function(err){
 
   if(err){
