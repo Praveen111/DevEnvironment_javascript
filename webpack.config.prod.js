@@ -26,7 +26,7 @@ export default {
       name: 'vendor'
     }),
 
-    new HtmlWebpackPlugin({
+    new HtmlWebpackPlugin ({
       template : 'src/index.html',
       //  minify: {
       //    removeComments: true,
