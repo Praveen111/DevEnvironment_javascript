@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 17370546,
+      "firstName": "Richie",
+      "lastName": "Wolff",
+      "email": "Allison.Ritchie26@gmail.com"
+    },
+    {
+      "id": 98852765,
+      "firstName": "Earnestine",
+      "lastName": "Wolf",
+      "email": "Sammy74@gmail.com"
+    },
+    {
+      "id": 71729408,
+      "firstName": "Zella",
+      "lastName": "Tromp",
+      "email": "Ahmed90@gmail.com"
+    },
+    {
+      "id": 83178475,
+      "firstName": "Leon",
+      "lastName": "Weimann",
+      "email": "Keira96@gmail.com"
+    }
+  ]
+}

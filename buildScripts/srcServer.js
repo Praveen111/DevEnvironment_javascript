@@ -23,7 +23,7 @@ app.get('/', function(req,res){
 app.get('/users', function(req,res){
 
   res.json([
-    {"id" : 1 , "name" : "Praveen", "email": "pravee@gmail.com"},
+    {"id" : 1 , "Firname" : "Praveen", "email": "pravee@gmail.com"},
     {"id" : 2 , "name" : "Prashanth", "email": "prash@gmail.com"},
     {"id" : 3 , "name" : "Trishul", "email": "trishhh@gmail.com"}
   ]);

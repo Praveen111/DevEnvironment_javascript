@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 33760789,
+      "firstName": "Alicia",
+      "lastName": "Lynch",
+      "email": "Jacquelyn.Feest95@gmail.com"
+    },
+    {
+      "id": 55665058,
+      "firstName": "Hillary",
+      "lastName": "Labadie",
+      "email": "Isabelle.Lakin@hotmail.com"
+    },
+    {
+      "id": 50674612,
+      "firstName": "Justine",
+      "lastName": "Conroy",
+      "email": "Edwin.Murazik@gmail.com"
+    },
+    {
+      "id": 33381443,
+      "firstName": "Nya",
+      "lastName": "Hettinger",
+      "email": "Mina87@gmail.com"
+    }
+  ]
+}
